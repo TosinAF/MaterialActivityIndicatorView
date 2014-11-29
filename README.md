@@ -2,7 +2,6 @@ MaterialActivityIndicatorView
 ====================
 
 A Swift port for https://github.com/phillipcaudell/PCAngularActivityIndicatorView
-The animation also changes after every iteration
 
 Youtube Video Link -> https://www.youtube.com/watch?v=EDuqUTi9rus
 
