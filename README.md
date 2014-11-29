@@ -1,7 +1,7 @@
 MaterialActivityIndicatorView
 ====================
 
-A Swift port for https://github.com/phillipcaudell/PCAngularActivityIndicatorView
+A Swift port for https://github.com/phillipcaudell/PCAngularActivityIndicatorView, with some improvements such as it changes color after every iteration.
 
 Youtube Video Link -> https://www.youtube.com/watch?v=EDuqUTi9rus
 
