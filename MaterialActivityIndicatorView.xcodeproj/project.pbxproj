@@ -11,6 +11,8 @@
 		4E8DC4331A2A716C0056AFF8 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4E8DC4321A2A716C0056AFF8 /* Images.xcassets */; };
 		4E8DC4361A2A716C0056AFF8 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4E8DC4341A2A716C0056AFF8 /* LaunchScreen.xib */; };
 		4E8DC4421A2A716C0056AFF8 /* MaterialActivityIndicatorViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E8DC4411A2A716C0056AFF8 /* MaterialActivityIndicatorViewTests.swift */; };
+		4E8DC44C1A2A71960056AFF8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E8DC44B1A2A71960056AFF8 /* ViewController.swift */; };
+		4E8DC44E1A2A71C20056AFF8 /* MaterialActivityIndicatorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E8DC44D1A2A71C20056AFF8 /* MaterialActivityIndicatorView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -32,6 +34,8 @@
 		4E8DC43B1A2A716C0056AFF8 /* MaterialActivityIndicatorViewTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MaterialActivityIndicatorViewTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4E8DC4401A2A716C0056AFF8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4E8DC4411A2A716C0056AFF8 /* MaterialActivityIndicatorViewTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaterialActivityIndicatorViewTests.swift; sourceTree = "<group>"; };
+		4E8DC44B1A2A71960056AFF8 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		4E8DC44D1A2A71C20056AFF8 /* MaterialActivityIndicatorView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MaterialActivityIndicatorView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +78,8 @@
 			isa = PBXGroup;
 			children = (
 				4E8DC4301A2A716C0056AFF8 /* AppDelegate.swift */,
+				4E8DC44B1A2A71960056AFF8 /* ViewController.swift */,
+				4E8DC44D1A2A71C20056AFF8 /* MaterialActivityIndicatorView.swift */,
 				4E8DC4321A2A716C0056AFF8 /* Images.xcassets */,
 				4E8DC4341A2A716C0056AFF8 /* LaunchScreen.xib */,
 				4E8DC42E1A2A716C0056AFF8 /* Supporting Files */,
@@ -205,6 +211,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4E8DC44C1A2A71960056AFF8 /* ViewController.swift in Sources */,
+				4E8DC44E1A2A71C20056AFF8 /* MaterialActivityIndicatorView.swift in Sources */,
 				4E8DC4311A2A716C0056AFF8 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
