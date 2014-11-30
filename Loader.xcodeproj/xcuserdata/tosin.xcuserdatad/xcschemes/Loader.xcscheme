@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4E8DC42A1A2A716C0056AFF8"
-               BuildableName = "MaterialActivityIndicatorView.app"
-               BlueprintName = "MaterialActivityIndicatorView"
-               ReferencedContainer = "container:MaterialActivityIndicatorView.xcodeproj">
+               BlueprintIdentifier = "137ED1DE199B87CD00C34DEE"
+               BuildableName = "Loader.app"
+               BlueprintName = "Loader"
+               ReferencedContainer = "container:Loader.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -28,10 +28,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4E8DC43A1A2A716C0056AFF8"
-               BuildableName = "MaterialActivityIndicatorViewTests.xctest"
-               BlueprintName = "MaterialActivityIndicatorViewTests"
-               ReferencedContainer = "container:MaterialActivityIndicatorView.xcodeproj">
+               BlueprintIdentifier = "137ED202199B87CD00C34DEE"
+               BuildableName = "LoaderTests.xctest"
+               BlueprintName = "LoaderTests"
+               ReferencedContainer = "container:Loader.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,20 +46,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4E8DC43A1A2A716C0056AFF8"
-               BuildableName = "MaterialActivityIndicatorViewTests.xctest"
-               BlueprintName = "MaterialActivityIndicatorViewTests"
-               ReferencedContainer = "container:MaterialActivityIndicatorView.xcodeproj">
+               BlueprintIdentifier = "137ED202199B87CD00C34DEE"
+               BuildableName = "LoaderTests.xctest"
+               BlueprintName = "LoaderTests"
+               ReferencedContainer = "container:Loader.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4E8DC42A1A2A716C0056AFF8"
-            BuildableName = "MaterialActivityIndicatorView.app"
-            BlueprintName = "MaterialActivityIndicatorView"
-            ReferencedContainer = "container:MaterialActivityIndicatorView.xcodeproj">
+            BlueprintIdentifier = "137ED1DE199B87CD00C34DEE"
+            BuildableName = "Loader.app"
+            BlueprintName = "Loader"
+            ReferencedContainer = "container:Loader.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -75,10 +75,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4E8DC42A1A2A716C0056AFF8"
-            BuildableName = "MaterialActivityIndicatorView.app"
-            BlueprintName = "MaterialActivityIndicatorView"
-            ReferencedContainer = "container:MaterialActivityIndicatorView.xcodeproj">
+            BlueprintIdentifier = "137ED1DE199B87CD00C34DEE"
+            BuildableName = "Loader.app"
+            BlueprintName = "Loader"
+            ReferencedContainer = "container:Loader.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -93,10 +93,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4E8DC42A1A2A716C0056AFF8"
-            BuildableName = "MaterialActivityIndicatorView.app"
-            BlueprintName = "MaterialActivityIndicatorView"
-            ReferencedContainer = "container:MaterialActivityIndicatorView.xcodeproj">
+            BlueprintIdentifier = "137ED1DE199B87CD00C34DEE"
+            BuildableName = "Loader.app"
+            BlueprintName = "Loader"
+            ReferencedContainer = "container:Loader.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
